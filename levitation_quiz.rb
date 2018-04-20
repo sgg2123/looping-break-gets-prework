@@ -1,7 +1,7 @@
 
 def levitation_quiz
 	puts "What isthe spell that enacts levitation?"
-	puts 
+	puts "You passedthe quiz!"
 end
 
 
